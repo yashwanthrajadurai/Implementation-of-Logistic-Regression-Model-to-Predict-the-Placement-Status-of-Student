@@ -81,17 +81,14 @@ RegisterNumber: 212222040184
 */
 ```
 
+
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
-![Screenshot 2024-03-11 143621](https://github.com/yuvarajmonarch/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/122221735/bb59de65-257f-4500-94c3-a595e2fd47ca)
-![Screenshot 2024-03-11 143606](https://github.com/yuvarajmonarch/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/122221735/983a2a6b-c135-47f9-aaad-266957f90d64)
-![Screenshot 2024-03-11 143553](https://github.com/yuvarajmonarch/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/122221735/543cbbc7-1dad-436b-85ad-25b5d3bd00c4)
-![Screenshot 2024-03-11 143651](https://github.com/yuvarajmonarch/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/122221735/23245502-1c48-4314-8fc5-c8dd4a88712a)
-![Screenshot 2024-03-11 143642](https://github.com/yuvarajmonarch/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/122221735/0c0c96d0-3763-48fb-b388-e2650ebd901f)
-![Screenshot 2024-03-11 143633](https://github.com/yuvarajmonarch/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/122221735/dcf18bb2-74e4-4d4d-8bc2-15c14c046a30)
-![Screenshot 2024-03-11 143703](https://github.com/yuvarajmonarch/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/122221735/0e8c886f-5294-43cd-a5ce-5ea1658a1ce2)
 
-
+![out1](https://user-images.githubusercontent.com/95363138/165530222-7c093ee5-e167-40ef-8b63-ec1053a9f35f.png)
+![out2](https://user-images.githubusercontent.com/95363138/165530270-877fa103-6e63-4e75-aa2f-d96fb5a28725.png)
+![out3](https://user-images.githubusercontent.com/95363138/165530296-688420bd-bac3-487f-ae4c-296d9c093200.png)
+![out4](https://user-images.githubusercontent.com/95363138/165531591-51a7f357-6622-47d8-95ec-75d1cb049e26.png)
+![out5](https://user-images.githubusercontent.com/95363138/165530325-1b17db66-7856-4d20-a4af-45874acea0fe.png)
 
 
 ## Result:
