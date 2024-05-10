@@ -99,10 +99,7 @@ classification_report1
 ```
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
-
 ## Output:
-## Output:
-
 <H3>PLACEMENT DATA</H3>
 
 ![image](https://github.com/premkumarkarthikeyan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476243/bab264cf-5188-4fbc-aac2-59687fb40e35)
